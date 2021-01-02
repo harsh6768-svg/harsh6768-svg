@@ -46,6 +46,49 @@ I am a Competitive Programmer 🚀 from **India**. I love to learn new things an
 <hr>
 <!--
 harsh6768-svg/harsh6768-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Certifications 🏆📜 :  </h2>
+<table>
+  <tr>
+    <td rowspan="4">
+        <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/71c6201316d1">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/39a2638276df">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/254295cc79fa">
+        <img src = "https://github.com/harsh6768-svg/harsh6768-svg/blob/main/Assets/problem-solving.jpg?raw=true", width="150px">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    
+    <td>
+      <a href="https://www.hackerrank.com/certificates/e27df5ba4bf1">
+        <img src = "https://github.com/harsh6768-svg/harsh6768-svg/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px">
+      </a>
+    </td>
+     <td>
+     
+    </td>
+  </tr>
+    
+</table>
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
+
+<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
 Here are some ideas to get you started:
 
