@@ -24,6 +24,8 @@ I am a Web Developer 🚀 from **India** and have great intrest in Competitive C
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=harsh6768-svg)
 
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+
 ***Techs and tools I use :***
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
