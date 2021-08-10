@@ -25,17 +25,7 @@ I am a Web Developer 🚀 from **India** and have  intrest in Competitive Coding
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=harsh6768-svg)
 
 ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
-## Github Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=harsh6768-svg&theme=react-dark&hide_border=true&area=true)
-
-
-
-
-<br>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh6768-svg" alt="devded" /> </p>
 
 ***Techs and tools I use :***
 
