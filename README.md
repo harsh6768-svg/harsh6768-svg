@@ -24,7 +24,6 @@ I am a Web Developer 🚀 from **India** and have  intrest in Competitive Coding
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=harsh6768-svg)
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 
 
 ***Techs and tools I use :***
