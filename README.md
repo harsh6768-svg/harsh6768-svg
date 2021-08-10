@@ -35,7 +35,7 @@ I am a Web Developer 🚀 from **India** and have  intrest in Competitive Coding
 <br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh6768-svg" alt="devded" /> </p>
 
 ***Techs and tools I use :***
 
