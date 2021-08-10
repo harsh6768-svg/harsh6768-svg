@@ -29,11 +29,7 @@ I am a Web Developer 🚀 from **India** and have  intrest in Competitive Coding
 
 ![](https://activity-graph.herokuapp.com/graph?username=harsh6768-svg&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6768-svg">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh6768-svg&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6768-svg&layout=compact&theme=light"/>
 
 
 <br>
