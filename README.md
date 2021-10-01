@@ -14,7 +14,7 @@
 Hi! I am Kumar Harsh, a **Computer Science and Engineering** student at <a href ="http://kiit.ac.in/">KIIT University</a>
 I am a Web Developer 🚀 from **India** and have  intrest in Competitive Coding. I love to learn new things and believe in Code till AC.
 Open Source Contributor
-(LGMSOC,DEVINCEPT,HACKCLUBBHUBHNESHWAR,HGSSOC,SUMMERBITCOIN,HACKTOBERFEST) etc.
+(LGMSOC,DEVINCEPT,HACKCLUBBHUBHNESHWAR,HGSSOC,SUMMERBITCOIN,HACKTOBERFEST,GSSOC) etc.
 
 ![Harsh Github stats](https://github-readme-stats.vercel.app/api?username=harsh6768-svg&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
