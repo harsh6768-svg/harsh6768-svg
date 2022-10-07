@@ -11,7 +11,7 @@
 </a>
 
 
-Hi! I am Kumar Harsh, a **Computer Science and Engineering** student at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi! I am Kumar Harsh, a **Devops CI/CD** Intern at <a href ="http://kiit.ac.in/">TATA DIGITALS</a>
 I am a Cloud Enthusiast🚀 from **India** and have  intrest in Competitive Coding. I love to learn new things and believe in Code till AC.
 Open Source Contributor
 (LGMSOC,DEVINCEPT,HACKCLUBBHUBHNESHWAR,HGSSOC,SUMMERBITCOIN,HACKTOBERFEST,GSSOC) etc.
