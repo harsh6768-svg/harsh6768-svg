@@ -9,7 +9,7 @@
 <a href="https://github.com/harsh6768-svg">
   <img align="left" alt="Akt's GitHub" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
 Hi! I am Kumar Harsh, a **SWE** Intern at <a href ="http://kiit.ac.in/">TATA DIGITALS</a>
 I am a Cloud Enthusiast🚀 from **India** and have  intrest in Competitive Coding. I love to learn new things and believe in Code till AC.
