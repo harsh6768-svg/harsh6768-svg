@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">A Cloud/DevOps Engineer based in TATA DIGITALS Gurgaon(Haryana)</h3>
+<h3 align="center">A Cloud/DevOps Engineer based in TATA DIGITALS Gurgaon(Haryana) working with Offers Tracks in Croma Retails and TATA NEU SUPER APP </h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
 <p align="left"> <a href="https://twitter.com/o1_harsh" target="blank"><img src="https://img.shields.io/twitter/follow/o1_harsh?logo=twitter&style=for-the-badge" alt="o1_harsh" /></a> </p>
