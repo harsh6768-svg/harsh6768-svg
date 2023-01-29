@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **82877harsh@gmail.com**
 
-- ⚡ Fun fact **I like to Sing Play Volleyball Sometime Singing **
+- ⚡ Fun fact **I like to  Play Volleyball Sometime Singing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
