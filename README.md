@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my Articles are available at [https://medium.com/@1905391(https://medium.com/@1905391)
 
-- 📝 I regularly write articles on [Cloud/DevOps concepts](Cloud/DevOps concepts)
+- 📝 I regularly write articles on (Cloud/DevOps concepts)
 
 - 💬 Ask me about **Azure AKS and Linux**
 
