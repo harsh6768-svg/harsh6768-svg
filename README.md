@@ -1,20 +1,34 @@
-### Hey there 👋 I'm <a href="https://github.com/harsh6768-svg">Kumar Harsh </a>
-
-<a href="https://www.linkedin.com/in/harsh-kumar-50a7a61a9/">
-  <img align="left" alt="Akt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/harsh_sir_17/?hl=en">
-  <img align="left" alt="Akt's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/harsh6768-svg">
-  <img align="left" alt="Akt's GitHub" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h3 align="center">A Cloud/DevOps Engineer based in Gurgaon(Haryana)</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-Hi! I am Kumar Harsh, a **SWE** Intern at <a href ="http://kiit.ac.in/">TATA DIGITALS</a>
-I am a Cloud Enthusiast🚀 from **India** and have  intrest in Competitive Coding. I love to learn new things and believe in Code till AC.
-Open Source Contributor
-(LGMSOC,DEVINCEPT,HACKCLUBBHUBHNESHWAR,HGSSOC,SUMMERBITCOIN,HACKTOBERFEST,GSSOC) etc.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh6768-svg&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6768-svg" /> </p>
+
+<p align="left"> <a href="https://twitter.com/o1_harsh" target="blank"><img src="https://img.shields.io/twitter/follow/@georgebaidoojr?logo=twitter&style=for-the-badge" alt="@georgebaidoojr" /></a> </p>
+
+- 🔭 I’m currently working on **Linux and Docker concepts/projects**
+
+- 🌱 I’m currently learning **Linux and Docker**
+
+- 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
+
+- 👨‍💻 All of my Articles are available at [https://medium.com/@1905391(https://medium.com/@1905391)
+
+- 📝 I regularly write articles on [Cloud/DevOps concepts](Cloud/DevOps concepts)
+
+- 💬 Ask me about **Azure AKS and Linux**
+
+- 📫 How to reach me **82877harsh@gmail.com**
+
+- ⚡ Fun fact **I like to workout, watch documentaries, and make beats as hobby**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/o1_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@georgebaidoojr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebaidoojr" height="30" width="40" /></a>
+<a href="https://instagram.com/@harsh_kr_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@georgebaidoo_" height="30" width="40" /></a>
+<a href="https://medium.com/@1905391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@georgebaidoojr" height="30" width="40" /></a>
+</p>
 
 ![Harsh Github stats](https://github-readme-stats.vercel.app/api?username=harsh6768-svg&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
