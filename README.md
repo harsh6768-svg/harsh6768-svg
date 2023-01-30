@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
 
-- 👨‍💻 All of my Articles are available at [https://medium.com/@1905391(https://medium.com/@1905391)
+- 👨‍💻 All of my Articles are available at (https://medium.com/@1905391)
 
 - 📝 I regularly write articles on (Cloud/DevOps concepts)
 
